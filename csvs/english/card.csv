@@ -1,4 +1,9 @@
 Unique ID	Name	Pitch	Cost	Power	Defense	Health	Intelligence	Types	Card Keywords	Abilities and Effects	Ability and Effect Keywords	Granted Keywords	Removed Keywords	Interacts with Keywords	Functional Text	Type Text	Card Played Horizontally	Blitz Legal	CC Legal	Commoner Legal	
+CqNB8MLzfCh6tRP6RRMdj	A Drop in the Ocean	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Target attack gets -1{p}.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 dTKDHwdcrLNPPb6ktczmR	Absorb in Aether	1	1		4			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 tWKN9zRJdgFmpw6pmPmkR	Absorb in Aether	2	1		3			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
 WkDkrkTDzRnqWBh7WHJfh	Absorb in Aether	3	1		2			Wizard, Defense Reaction							The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.	Wizard Defense Reaction				No	
@@ -1815,6 +1820,7 @@ If you've played a red card this turn, dragons you control have **go again** whi
 9bQFfTFGQWJFWrcJnfQgz	Drone of Brutality	1	2	6	2			Generic, Action, Attack							If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack				No	
 Nhmj8MBNCmWFC68JkhkNC	Drone of Brutality	2	2	5	2			Generic, Action, Attack							If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack				No	
 hJt6FwT8mhQbcWQLzgHMT	Drone of Brutality	3	2	4	2			Generic, Action, Attack							If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.	Generic Action - Attack				No	
+gzdhT8FLprLrfPNCdNtR7	Droplet	3	0	2	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
 rB8rmFM8LLnw7BNFPbNtW	Drowning Dire	1	2	5	3			Runeblade, Action, Attack	Dominate						"If you have played or created an aura this turn, Drowning Dire gains **dominate**.
 
 When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck."	Runeblade Action - Attack					
@@ -1929,6 +1935,11 @@ If Electrify is played from arsenal, draw a card.
 
 **Go again**"	Lightning Action					
 jKhMgndCGwjzKLHQMM7Cj	Eloquence							Generic, Token, Aura				Go again			When you play a non-attack action card, destroy this and the card gets **go again**.	Generic Token - Aura					
+zjjTKPFFzRh9fMGmR6jPR	Eloquent Eulogy	1	1	4	3			Shadow, Runeblade, Action, Attack	Rune Gate, Blood Debt						"**Rune Gate**
+
+When the combat chain closes, if a hero has lost {h} this turn, create an Eloquence token.
+
+**Blood Debt**"	Shadow Runeblade Action - Attack				No	
 kqndgG6wmB6CLq6FqfjJ9	Embermaw Cenipai	1	2	8	3			Draconic, Illusionist, Action, Attack	Phantasm						"**Phantasm**
 
 When Embermaw Cenipai is destroyed, create an Ash token."	Draconic Illusionist Action - Attack					
@@ -2080,9 +2091,15 @@ If you've **charged** this turn, Engulfing Light gains ""If this hits, put it in
 DbFJncpjwQmp8mg99RPqL	Engulfing Light	3	0	1	3			Light, Warrior, Action, Attack	Charge					Charge	"As an additional cost to play Engulfing Light, you may **charge** your hero's soul.
 
 If you've **charged** this turn, Engulfing Light gains ""If this hits, put it into your hero's soul."""	Light Warrior Action - Attack					
+JKPFKKFqnLtmctLkwNCmc	Enigma					20	4	Mystic, Illusionist, Hero, Young		Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
+
+**Once per Turn Instant** - {b}{b}{b}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero - Young			No		
 KPm87t9nFjpM9jzrM7hzp	Enigma Chimera	1	2	8	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack					
 QFJ7cfqhj6TqrwLQQJNFL	Enigma Chimera	2	2	7	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack					
 CQRFRLf9kHFWnrmqfFRTn	Enigma Chimera	3	2	6	3			Illusionist, Action, Attack	Phantasm						**Phantasm**	Illusionist Action - Attack					
+tJhRRN9kkMCnGQdQJ8TWg	Enigma, Ledger of Ancestry					40	4	Mystic, Illusionist, Hero		Once per Turn Instant					"Your first Spectral Shield attack each turn costs {r} less to activate.
+
+**Once per Turn Instant** - {b}{b}{b}: Create a Spectral Shield token with a +1{p} counter."	Mystic Illusionist Hero		No		No	
 QDrWjRHBmBWBnJHmmbzRM	Enlightened Strike	1	0	5	3			Generic, Action, Attack	Go again						"As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck.
 
 Choose 1;
@@ -3120,6 +3137,11 @@ WHLRchgdMH8Bjb8TDngkp	Hold 'em	3	1		3			Warrior, Action	Go again, Wager			Wager	
 
 **Go again**"	Warrior Action					
 77rDjRrtRKDHTpNwbHWDW	Hold the Line	3	0		2			Generic, Defense Reaction							If the attacking hero has drawn 2 or more cards this turn, prevent the next 3 damage that would be dealt to your hero this turn.	Generic Defense Reaction				No	
+mzKLGwTBmFHFd8KNdPQ7n	Homage to Ancestors	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Gain 1{h}
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 zc8n8JQRfBTPHGfnBmw8L	Honing Hood		0		0			Ranger, Equipment, Head		Instant					**Instant** - Destroy Honing Hood: Return all cards in your arsenal to your hand, then put a card from your hand face down into your arsenal.	Ranger Equipment - Head					
 6ntF8Rdm7PqLkHWnPMkrF	Hood of Red Sand				1			Warrior, Equipment, Head	Kassai Specialization, Battleworn	Attack Reaction					"**Kassai Specialization**
 
@@ -3359,6 +3381,7 @@ fJdjjcFWMpqfCNKpJbNLr	Infuse Alloy	3	0	2	2			Mechanologist, Action, Attack	Galva
 PnfMD9zp7JgTwTmJTQkwz	Infuse Titanium	1	3	7	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 qQbcdmqJw9tPqqDBnDpH9	Infuse Titanium	2	3	6	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
 JhJWJjwBffmkgq69rfrgC	Infuse Titanium	3	3	5	2			Mechanologist, Action, Attack	Galvanize						**Galvanize** - When this defends, you may destroy an item you control. If you do, this gets +2{d}.	Mechanologist Action - Attack					
+FRTnBzBCRC7TbNhdKLWqW	Inner Chi	3						Mystic, Resource, Chi								Mystic Resource - Chi					
 gfrwTGTGJhqjTPKbcd96P	Insidious Chill	3	3		2			Ice, Action, Aura							"Insidious Chill enters the arena with 3 frost counters on it. When it has no frost counters on it, destroy it.
 
 Whenever you **Ice Fuse**, remove a frost counter from Insidious Chill. If you do, target hero discards a card unless they pay {r}{r}."	Ice Action - Aura				No	
@@ -3736,6 +3759,9 @@ If you have **boosted** this turn, **opt 1**.
 Jcr8qghhWR9GPwR9GzDJq	Long Shot	1	0	3	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
 Pbw7BCzT7RnLTqz7R8TgN	Long Shot	2	0	2	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
 wcQzjTdhBwLkDWQbjLG8c	Long Shot	3	0	1	3			Ranger, Action, Arrow, Attack							If Long Shot has an aim counter, it has +2{p}.	Ranger Action - Arrow Attack					
+tNBLJKrbDpBL9TMb678wM	Longdraw Half-glove				1			Ranger, Equipment, Arms	Battleworn	Instant					"**Instant** - Destroy this, put 2 cards from your hand and/or arsenal on the bottom of your deck: Your next arrow attack this turn gets +4{p}.
+
+**Battleworn**"	Ranger Equipment - Arms				No	
 JckmT8QFTgHWrGCBPNWKh	Looking for a Scrap	1	1	4	2			Generic, Action, Attack	Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
 ntNzmrhJNcwpc9pbjbFmL	Looking for a Scrap	2	1	3	2			Generic, Action, Attack	Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
 bpQN7JWMfcWndWkjWkJwb	Looking for a Scrap	3	1	2	2			Generic, Action, Attack	Go again						As an additional cost to play Looking for a Scrap, you may banish a card with 1{p} from your graveyard. When you do, this gains +1{p} and **go again**.	Generic Action - Attack				No	
@@ -3973,6 +3999,7 @@ t68gtGcPf8H9wTGBCfj8L	Monstrous Veil				1			Brute, Equipment, Head	Rhinar Specia
 **Action** - Destroy this: Draw a card then discard a random card. **Go again**
 
 **Battleworn**"	Brute Equipment - Head					
+pDpQ79NgQN6MQtz9zQrCW	Moon Chakra	1	0					Mystic, Illusionist, Instant						Transcend	The next time you would be dealt damage this turn, prevent 3 of that damage. If you've **transcended** this turn, instead prevent 5.	Mystic Illusionist Instant					
 mhLrKM6RbWGGHNrTGjtMw	Moon Wish	1	2	5	2			Generic, Action, Attack							"You may put a card from your hand on top of your deck rather than pay Moon Wish's {r} cost.
 
 If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck."	Generic Action - Attack					
@@ -4021,6 +4048,11 @@ Damage that would be dealt by Murkmire Grapnel can't be prevented."	Ranger Actio
 MFMLnHfwqKpqhKhcHTGHt	Murkmire Grapnel	3	0	2	3			Ranger, Action, Arrow, Attack							"If Murkmire Grapnel has an aim counter, it has +1{p}.
 
 Damage that would be dealt by Murkmire Grapnel can't be prevented."	Ranger Action - Arrow Attack					
+RmpWGrQMtkjKRfd8QqrGJ	Murky Water	1	2	6	3			Ranger, Action, Arrow, Attack	Riptide Specialization, Dominate						"**Riptide Specialization**
+
+If this has an aim counter, it gets +1{p} and **dominate**.
+
+When this hits, you may banish face-down 3 traps from your graveyard. If you do, choose one at random and put it into your arsenal."	Ranger Action - Arrow Attack				No	
 Nq9dPQ8KmtgWjCczcJQfz	Muscle Mutt	2	3	6	2			Generic, Action, Attack								Generic Action - Attack					
 Fw7hr8tGFkDbJkJB8Gjhk	Mutated Mass	3	1	*	*			Shadow, Action, Attack	Blood Debt						"You may play Mutated Mass from your banished zone.
 
@@ -4111,6 +4143,12 @@ n8rcTcmmLzzwTWHCwgtRP	Nullrune Boots				0			Generic, Equipment, Legs	Arcane Barr
 9DNnTrggQrJWn8CMFJJhf	Nullrune Hood				0			Generic, Equipment, Head	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Head					
 TKd8jdfqgWnjdNRBmkKfB	Nullrune Robe				0			Generic, Equipment, Chest	Arcane Barrier 1						**Arcane Barrier 1**	Generic Equipment - Chest					
 tDjBgLK9QzgrFzLHzwBnC	Numbskull	1	2	6	3			Brute, Action, Attack							While this is in any zone, its {r} cost to play, {p}, and {d} can't be modified.	Brute Action - Attack				No	
+prMJkPd8w9KQHQ9BjgMmG	Nuu					20	4	Mystic, Assassin, Hero, Young		Instant				Stealth	"Your attacks with **stealth** get ""When this chain link resolves, banish all action cards defending this.""
+
+**Instant** - {b}{b}{b}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero - Young			No		
+MghLPDjq8CfBJ8RzNc7Ft	Nuu, Alluring Desire					40	4	Mystic, Assassin, Hero		Instant				Stealth	"Your attacks with **stealth** get ""When this chain link resolves, banish all action cards defending this.""
+
+**Instant** - {b}{b}{b}: Look at the top card of an opposing hero's deck. If it's blue, you may banish it. Until end of turn, you may play blue cards from that hero's banished zone without paying their {r} cost."	Mystic Assassin Hero		No		No	
 JfJ7hNnCDL9GDCwfrWBBc	Oaken Old	1	3	7	3			Elemental, Guardian, Action, Attack	Earth and Ice Fusion, Dominate						"**Earth and Ice Fusion**
 
 If Oaken Old was **fused**, it gains +2{p}, **dominate**, and ""If this hits a hero, they put 2 random cards from their hand on the bottom of their deck in any order."""	Elemental Guardian Action - Attack				No	
@@ -4172,6 +4210,9 @@ wrBpz9J66tTJtRK67FWdp	Orbitoclast			1				Assassin, Weapon, Dagger, 1H	Piercing 1
 **Piercing 1**
 
 When this hits a hero, the next time they defend with 1 or more 'non-attack' action cards this turn, those cards have -1{d} while defending."	Assassin Weapon - Dagger (1H)				No	
+bwtjtjCqP6wTHtkR9HtGh	Orihon of Mystic Tenets	3	4					Mystic, Instant	Legendary						"**Legendary**
+
+Draw 2 cards. If a Chi was pitched to play this, instead draw 3 cards."	Mystic Instant				No	
 JwhRzNPr9KNpMHzP8kWNG	Ornate Tessen							Generic, Equipment, Off-Hand		Instant					**Instant** - {r}, destroy Ornate Tessen: Put a card from your hand on the bottom of your deck. If you do, draw a card.	Generic Equipment - Off-Hand					
 qgzjH8rNPpg6Jb6PgzggC	Out Muscle	1	3	6	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
 dRFbtRTF8qzzBwbqHkWtF	Out Muscle	2	3	5	2			Generic, Action, Attack	Go again						While Out Muscle isn't defended by a card with equal or greater {p}, it has **go again**.	Generic Action - Attack				No	
@@ -4289,9 +4330,19 @@ Gq8RtNNrR7hz6QB9gj7CG	Parable of Humility	2	4					Light, Illusionist, Instant, A
 This gets +2{d} while defending a weapon attack.
 
 **Blade Break**"	Warror Weapon Equipment - Sword (1H)					
+m9tj8WGNNjQPt8wjMqFFf	Pass Over	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Banish target card from an opposing hero's graveyard.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 NBnFFCH9njbMMhBLc6jzw	Passing Mirage	3	0		2			Illusionist, Action, Aura	Spectra				Phantasm		"Your first Illusionist attack each turn loses and can't gain **phantasm**.
 
 **Spectra**"	Illusionist Action - Aura				No	
+7fN6NNBdf9KQF9gWWpdzL	Path Well Traveled	3	0					Mystic, Instant	Legendary, Transcend			Go again			"**Legendary**
+
+Target attack gets **go again**.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 WMDBhmGwnGHT7MKf7dLdk	Pathing Helix	1	0	4	3			Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
 KBND9JzTdFwBdtMgMq7Tj	Pathing Helix	2	0	3	3			Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
 b7DpNcDrnBrhFD78gQPdD	Pathing Helix	3	0	2	3			Ranger, Action, Arrow, Attack							If Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.	Ranger Action - Arrow Attack					
@@ -4592,6 +4643,11 @@ fMgQnGBfTgfGdLFMDjDWJ	Premeditate	1	0		2			Generic, Action	Go again						"The ne
 The next attack action card you play from arsenal this turn gains +3{p}.
 
 **Go again**"	Generic Action				No	
+jpWjmrzckFnCzG8tFMppt	Preserve Tradition	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Put target action card from your graveyard on the bottom of your deck.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 DTNR6KNnBDCBqkczc9PnT	Primed to Fight	1	5	9	3			Guardian, Action, Attack							"If you've controlled a Vigor token this turn, this costs {r} less to play.
 
 If you've controlled a Might token this turn, this gets +1{p}."	Guardian Action - Attack				No	
@@ -5202,6 +5258,12 @@ kqMJRRjLHfnPFBL6nDHPc	Rising Solartide	3	1	3	3			Light, Action, Attack							If 
 cDdGBtFJkhzCrmgC6bmfb	Rising Speed	1	2	5	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
 7QpRQBkcWN7fWjnwdhgQ6	Rising Speed	2	2	4	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
 BhQ9Pr8pQbhkCmCHG8hhT	Rising Speed	3	2	3	2			Brute, Warrior, Action, Attack	Go again						If you've drawn a card this turn, this gets **go again**.	Brute / Warrior Action - Attack					
+PtqHmkzqPMf9KBfk88QrR	Rising Sun, Setting Moon	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Draw a card, then put a card from your hand on the bottom of your deck.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
+m8qP9TTpMfdKndW7wN7M7	Rising Tide	3	1	3	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
 bq8bmCkrPKHgb7fMRPkjM	Rites of Lightning	1	1	4	3			Elemental, Runeblade, Action, Attack	Lightning Fusion, Go again						"**Lightning Fusion**
 
 When you attack with Rites of Lightning, if it was **fused**, deal 1 arcane damage to target hero.
@@ -5390,6 +5452,24 @@ When this hits a hero, banish the top card of their deck."	Assassin Action - Att
 GCBnJqcCCpBHQwzBgdNbh	Sack the Shifty	3	0	2	3			Assassin, Action, Attack	Contract					Go again	"**Contract** - You are contracted to banish opponents' cards with base **go again**. Whenever you complete this contract, create a Silver token.
 
 When this hits a hero, banish the top card of their deck."	Assassin Action - Attack					
+cdb8cTqP9MRgwqr7Q6rHQ	Sacred Art: Immortal Lunar Shrine	3	3					Mystic, Illusionist, Instant	Legendary, Transcend					Ward	"**Legendary**
+
+If you've played another blue card this turn, choose 3. Otherwise, choose 1;
+- Create 2 Spectral Shield tokens.
+- Put a +1{p} counter on each aura with **ward** you control.
+- **Transcend**"	Mystic Illusionist Instant				No	
+GJzhGm6bb6gW8nMBgQRbz	Sacred Art: Jade Tiger Domain	3	3					Mystic, Ninja, Instant	Legendary, Transcend						"**Legendary**
+
+If you've played another blue card this turn, choose 3. Otherwise, choose 1;
+- Create 2 Crouching Tigers in your hand.
+- Your Crouching Tigers get +1{p} this turn.
+- **Transcend**"	Mystic Ninja Instant				No	
+c8CdW9QBrMJPh6nwJGJ6Q	Sacred Art: Undercurrent Desires	3	3					Mystic, Assassin, Instant	Legendary, Transcend						"**Legendary**
+
+If you've played another blue card this turn, choose 3. Otherwise, choose 1;
+- Create a Fang Strike and Slither in your hand.
+- Banish up to 2 cards in an opposing hero's graveyard.
+- **Transcend**"	Mystic Assassin Instant				No	
 zKtm8BQzLMCwJRgqcGLNm	Salt the Wound	2	0	2	3			Ninja, Action, Attack							This gets +1{p} for each attack that has hit this combat chain.	Ninja Action - Attack					
 9pnrkbM9DbqCqqkbDCC8N	Salvage Shot	1	1	5	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
 d8mzLHtQRkT8GWFcgR78H	Salvage Shot	2	1	4	3			Ranger, Action, Arrow, Attack							When this hits, put it on the bottom of its owner's deck.	Ranger Action - Arrow Attack					
@@ -5699,6 +5779,11 @@ pntf8jrgBbNzC8jBkChDJ	Shadow of Ursur	3	0	2	3			Shadow, Runeblade, Action, Attac
 As an additional cost to play Shadow of Ursur, you may banish a card with blood debt from your hand. If you do, Shadow of Ursur gains **go again**.
 
 **Blood Debt**"	Shadow Runeblade Action - Attack				No	
+q9rhJWLhqmFgpRdrb6LGM	Shadowrealm Horror	1	2	6	3			Shadow, Brute, Action, Attack	Go again, Blood Debt						"As an additional cost to play this, banish 3 random cards in your graveyard.
+
+If 1 or more cards with 6 or more {p} are banished this way, this gets +1{p}. 2 or more, this gets **go again**. 3 or more, you may play a card banished this way this turn.
+
+**Blood Debt**"	Shadow Brute Action - Attack				No	
 DMH8PRWDTmMm6mWtQqttn	Shake Down	1	2	6	3			Assassin, Action, Attack	Uzuri Specialization						"**Uzuri Specialization**
 
 If you've played or activated an attack reaction this chain link, Shake Down has ""When this hits a hero, choose red, yellow, or blue. They reveal their hand. Banish a card of the chosen color."""	Assassin Action - Attack				No	
@@ -6177,6 +6262,7 @@ NbddFmpDCff8m7FWk6dnQ	Spike with Inertia	1	1		3			Assassin, Attack Reaction					
 6b6WhdH96PdDWBQhMzgLB	Spill Blood	1	1		3			Warrior, Action	Go again			Dominate			"Axes you control gain +2{p} and **dominate** until end of turn.
 
 **Go again**"	Warrior Action				No	
+PTbtpLNBrfMq9nNffBmMJ	Spillover	3	2	4	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
 BwgjdFCGncmNwKPkrznN7	Spinal Crush	1	5	9	3			Guardian, Action, Attack	Crush						**Crush** - If Spinal Crush deals 4 or more damage to a hero, action cards, activated abilities, and attacks they control lose and can't gain **go again** during their next action phase.	Guardian Action - Attack				No	
 8w9NwkkKWrtCGbmBBcfJR	Spinning Wheel Kick	1	1	4	2			Ninja, Action, Attack	Combo, Go again						"**Combo** - If Twin Twisters or Spinning Wheel Kick was the last attack this combat chain, this has +1{p} and ""When this hits, put it on the bottom of its owner's deck.""
 
@@ -6310,6 +6396,11 @@ At the beginning of your end phase, destroy Sting of Sorcery."	Runeblade Action 
 fMdnz9D9MRDrzMrBFf7Kr	Stir the Aetherwinds	1	2		2			Wizard, Action							You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 3.	Wizard Action				No	
 nPwjcRFWBmzNQWM6BMcgB	Stir the Aetherwinds	2	2		2			Wizard, Action							You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 2.	Wizard Action				No	
 k8wMFCFHtGTtTRfnzKGqQ	Stir the Aetherwinds	3	2		2			Wizard, Action							You may play your next Wizard 'non-attack' action card this turn as though it were an instant and if it has an effect that deals arcane damage, instead that effect deals that much arcane damage plus 1.	Wizard Action				No	
+pjpcnH9bKnGR6KFCFGz6Q	Stir the Pot	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Shuffle.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 8cCrr6Bd9HchgpQHnztTb	Stir the Wildwood	1	2	5	3			Elemental, Runeblade, Action, Attack	Earth Fusion						"**Earth Fusion**
 
 If you have dealt arcane damage to an opposing hero this turn, Stir the Wildwood gains +2{p}.
@@ -6665,6 +6756,11 @@ wPnWnDTdFfnjghqkQB88C	The Golden Son	2	4	7	3			Guardian, Action, Attack	Victor S
 As an additional cost to play this, you may destroy a Gold you control. If you do, this gets +3{p} and **overpower**.
 
 When you win a **clash** revealing this, create a Gold token."	Guardian Action - Attack				No	
+DgHLhRDccpLbjGT9nN8Jm	The Grain that Tips the Scale	3	0					Mystic, Instant	Legendary, Transcend						"**Legendary**
+
+Target attack gets +1{p}.
+
+If you've played another blue card this turn, **transcend**."	Mystic Instant					
 QcgncKTnLcdGKQnwDjqdz	The Librarian				3			Illusionist, Mentor						Specialization	"While The Librarian is face down in arsenal, at the start of your turn, you may turn him face up.
 
 While The Librarian is face up in arsenal, once per turn when you create a Spectral Shield token, draw a card and put a lesson counter on The Librarian. Then if there are 3 or more lesson counters on him, banish him, search your deck for a **specialization** card, put it face up into arsenal, and shuffle."	Illusionist Mentor			No	No	
@@ -6705,6 +6801,8 @@ When a Mechanologist attack action card you control hits a hero, destroy this an
 d8qcmDrkwJ7D6FnMjQDW9	Ticket Puncher				*			Generic, Equipment, Arms	Blade Break						"Ticket Puncher's {d} is equal to the number of opposing heroes with greater {h} than you.
 
 **Blade Break**"	Generic Equipment - Arms					
+qLbkgfKHC7bFpQhKbNdCw	Tidal Surge	3	3	5	2			Mystic, Action, Attack							If you've played another blue card this turn, this gets +2{p}.	Mystic Action - Attack					
+ftdRwjTPb9PNhfpfMMkzC	Tide Chakra	1	1		3			Mystic, Asssasin, Attack Reaction						Transcend	Target Assassin or Mystic attack action card gets +3[p}. If you've **transcended** this turn, instead it gets +5{p}.	Mystic Assassin Attack Reaction					
 TDJfbQjqKCwLRT7RczDrM	Tide Flippers				0			Ninja, Equipment, Legs	Arcane Barrier 1	Attack Reaction		Go again			"**Attack Reaction** - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains **go again**.
 
 **Arcane Barrier 1**"	Ninja Equipment - Legs					
@@ -7089,12 +7187,22 @@ z78cKCmLRbWfftGfpcJGd	Virulent Touch	3	0	2	2			Assassin, Ranger, Action, Attack	
 When this chain link resolves, if Virulent Touch is defended by a card from hand, create a Bloodrot Pox token under the defending hero's control."	Assassin / Ranger Action - Attack					
 RHnFkKb8FKdFzp9rdzGjF	Viserai					20	4	Runeblade, Hero, Young							Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero - Young			No		
 TKbRWjjBLJThMmLkTFb6q	Viserai, Rune Blood					40	4	Runeblade, Hero							Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.	Runeblade Hero		No		No	
+n6fRnMQh7NKBzqLKMMK68	Visit Goldmane Estate	3	1		3			Guardian, Action	Victor Specialization, Go again						"**Victor Specialization**
+
+Create a Gold token. Then if you control 3 or more Gold, create that many Might tokens.
+
+**Go again**"	Guardian Action				No	
 7JJG6Pdjw7Fq9rHGtmPBJ	Visit the Blacksmith	3	0		2			Generic, Action	Go again						"Your next sword attack this turn gains +1{p}.
 
 **Go again**"	Generic Action					
 zTKjp9zwk8Whfjr7bKpbn	Visit the Floating Dojo	3	0					Ninja, Instant	Katsu Specialization					Combo	"**Katsu Specialization**
 
 Put a Surging Strike and a card with **combo** from your graveyard on the top and/or bottom of your deck."	Ninja Instant				No	
+ndg9MJNHtTFG6BQqK7Lgz	Visit the Golden Anvil	3	0		3			Warrior, Action	Olympia Specialization						"**Olympia Specialization**
+
+As an additional cost to play this, destroy X Gold you control.
+
+Equip X weapons and/or equipment from your inventory."	Warrior Action				No	
 MjHm8rcQpcMfmR9MnbWTK	Visit the Imperial Forge	1	0		3			Warrior, Action	Go again			Piercing 3			"Sword and dagger attacks have **piercing 3** this turn.
 
 **Go again**"	Warrior Action					
@@ -7310,9 +7418,12 @@ If Widowmaker is defended by fewer than 2 cards, it has +3{p}."	Ranger Action - 
 6Ncbh6FMrcwkH7DmjJMwj	Widowmaker	3	1	2	3			Ranger, Action, Arrow, Attack							"Defense reactions can't be played to Widowmaker's chain link.
 
 If Widowmaker is defended by fewer than 2 cards, it has +3{p}."	Ranger Action - Arrow Attack					
-TKR9cWhRJgWjgjjL7kWmf	Wild Ride	1	2	6				Brute, Action, Attack	Go again						When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.	Brute Action - Attack					
-bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack	Go again						When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.	Brute Action - Attack					
-fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack	Go again						When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.	Brute Action - Attack					
+TKR9cWhRJgWjgjjL7kWmf	Wild Ride	1	2	6				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
+bPtqgMTnhqqJcHF7BJJWw	Wild Ride	2	2	5				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
+fwHfwDjtckfDmGQQQrKLw	Wild Ride	3	2	4				Brute, Action, Attack	Go again						When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.	Brute Action - Attack					
+KRLHmjMcJTWNdrHrHqbkt	Wind Chakra	1	0		3			Mystic, Ninja, Action	Go again					Transcend	"The next Crouching Tiger you play this turn gets +3{p}. If you've **transcended** this turn, instead it gets +5{p}.
+
+**Go again**"	Mystic Ninja Action					
 zcrgwbPhb8wr7MFmMDTzw	Winds of Eternity	3	0	2	3			Ninja, Action, Attack	Combo						"**Combo** - If Winds of Eternity was the last attack this combat chain, Winds of Eternity gains +2{p} and ""If this hits, shuffle all cards named Hundred Winds you control on this combat chain into your deck."""	Ninja Action - Attack				No	
 Hb6ThkhpGRD9K9J6hBLDM	Winter's Bite	1	0		2			Ice, Action	Go again						"Target hero discards a card unless they pay {r}{r}{r}.
 
@@ -7404,9 +7515,11 @@ nGFNqP9BddjFmfBNcQGpq	Zap	3	0		3			Wizard, Action							Deal 1 arcane damage to 
 mQTLKRNWqhbJRtNNdWHHj	Zealous Belting	1	2	5	2			Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
 FWPL69jpWNMf6qgfGWJQp	Zealous Belting	2	2	4	2			Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
 6djPj8nJPB6mFWrjrj7ft	Zealous Belting	3	2	3	2			Generic, Action, Attack	Go again						While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.	Generic Action - Attack					
+7FHM67fkfjCjzwWzKfFKH	Zen					20	4	Mystic, Ninja, Hero, Young		Once per Turn Instant				Combo	**Once per Turn Instant** - {b}{b}{b}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero - Young			No		
 HhTPF8HGRqhFbTT8HnBBh	Zen State							Ninja, Token, Aura							"Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.
 
 Whenever your hero would be dealt damage, prevent 1 damage that source would deal."	Ninja Token - Aura					
+GDbCgdDrFKCWWthrgD6h6	Zen, Tamer of Purpose					40	4	Mystic, Ninja, Hero		Once per Turn Instant				Combo	**Once per Turn Instant** - {b}{b}{b}: Create a Crouching Tiger in your hand. Search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.	Mystic Ninja Hero		No		No	
 DC8RfMDzMnthBkWJgmWpQ	Zephyr Needle			2				Ninja, Weapon, Dagger, 1H		Once per Turn Action	Attack, Go again				"**Once per Turn Action** - {r}: **Attack**. **Go again**
 
 When Zephyr Needle is defended by a card with {d} greater than Zephyr Needle's {p}, destroy it when the combat chain closes."	Ninja Weapon - Dagger (1H)					
